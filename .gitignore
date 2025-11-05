@@ -1,0 +1,10 @@
+### pdflatex
+*.aux
+*.toc
+*.log
+*.pdf
+
+### vim
+*.swp
+*.swo
+*.swx
